@@ -1,0 +1,19 @@
+<details>
+    <summary>
+        <h3>{{ include.title }}</h3>
+    </summary>
+    <p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+                height="315" src="https://www.youtube.com/embed/{{ include.path }}?si={{ include.si }}"
+                title="YouTube video player"
+                width="560"></iframe>
+    </p>
+    {% if include.quote %}
+        <blockquote>
+            {{ include.quote }}
+        </blockquote>
+    {% endif %}
+    <p>
+        {{ include.description }}
+    </p>
+</details>
