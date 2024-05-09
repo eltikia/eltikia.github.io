@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C64 | \(^_^)/ | eltikia
+title: Nostalgie-Ecke von Stagyrit
 ---
 
 <header>
@@ -30,6 +30,7 @@ title: C64 | \(^_^)/ | eltikia
 {% include computerspiel.html title="Maniac Mansion" description="Lese eine Plakette. „Si trouve, envoyez-le au Louvre, poste paye.“ Das bedeute, wenn Sie es finden, senden Sie es portofrei an den Louvre." path="UlD1jRwcvhA" si="lMAvdN6se4aBJ_K4" quote="Si trouve, envoyez-le au Louvre, poste paye. – ein Plakat in Tollhaus" %}
 {% include computerspiel.html title="The Mask of the Sun" description="Das Geheimnis der Aztekenmaske. Was ist schön dabei?" path="6ZJ_S4K6R10" si="xMna5OA0pw4DHuG5" %}
 {% include computerspiel.html title="Das Drachental" description="Wenn „trowrebuaz“ gesagt wird, ein Schwert ist frei. Das ist ganz normal in dieses Computerspiel. „Trowrebuaz“ ist ein Zauberwort." path="pahNjOWqNxQ" si="JrnXZZppS7GleynV" %}
+{% include computerspiel.html title="Sunny Shine - on the Funny Side of Life" description="Sunny ist allergisch gegen Alkohol, aber Cigaretten schmeckt ihm gut. Dieses Computerspiel kann nicht gut enden, denn er wirfte ein Poster weg. Er hat auch weniger Geld als die Konkurenz." path="Eg-WGXEohoc" si="AHZ9MtbCu4PSC98V" %}
 <details open>
     <summary>
         <h2>Kontakt</h2>

@@ -16,4 +16,11 @@
     <p>
         {{ include.description }}
     </p>
+    {% if include.discussion %}
+        <p>
+            <a href="https://github.com/eltikia/eltikia.github.io/discussions/{{ include.discussion }}"
+               title="🇩🇪 {{ include.title }} · eltikia/eltikia.github.io · Discussion #{{ include.discussion }}"
+               class="u-url url">Gehe zur Diskussion</a>
+        </p>
+    {% endif %}
 </details>
