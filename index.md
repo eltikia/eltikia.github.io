@@ -26,10 +26,10 @@ title: Nostalgie-Ecke von Stagyrit
         senden Sie es portofrei an den Louvre. Danke für Ihre Aufmerksamkeit, meine Damen und Herren.
     </p>
 </details>
-{% include computerspiel.html title="Zak McKracken and the Alien Mindbenders" description="Zachary hatte keine Ahnung, dass die Telefonrechnung fällig waren. Wie wird er bezahlen? Vergiss nicht zu der Erde retten, Zachary." path="S3ETogTxtnY" si="7LI_exPirRzw_VqD" %}
-{% include computerspiel.html title="Maniac Mansion" description="Lese eine Plakette. „Si trouve, envoyez-le au Louvre, poste paye.“ Das bedeute, wenn Sie es finden, senden Sie es portofrei an den Louvre." path="UlD1jRwcvhA" si="lMAvdN6se4aBJ_K4" quote="Si trouve, envoyez-le au Louvre, poste paye. – ein Plakat in Tollhaus" %}
-{% include computerspiel.html title="The Mask of the Sun" description="Das Geheimnis der Aztekenmaske. Was ist schön dabei?" path="6ZJ_S4K6R10" si="xMna5OA0pw4DHuG5" %}
-{% include computerspiel.html title="Das Drachental" description="Wenn „trowrebuaz“ gesagt wird, ein Schwert ist frei. Das ist ganz normal in dieses Computerspiel. „Trowrebuaz“ ist ein Zauberwort." path="pahNjOWqNxQ" si="JrnXZZppS7GleynV" %}
+{% include computerspiel.html title="Zak McKracken and the Alien Mindbenders" description="Zachary hatte keine Ahnung, dass die Telefonrechnung fällig waren. Wie wird er bezahlen? Vergiss nicht zu der Erde retten, Zachary." path="S3ETogTxtnY" si="7LI_exPirRzw_VqD" discussion="2" %}
+{% include computerspiel.html title="Maniac Mansion" description="Lese eine Plakette. „Si trouve, envoyez-le au Louvre, poste paye.“ Das bedeute, wenn Sie es finden, senden Sie es portofrei an den Louvre." path="UlD1jRwcvhA" si="lMAvdN6se4aBJ_K4" quote="Si trouve, envoyez-le au Louvre, poste paye. – ein Plakat in Tollhaus" discussion="4" %}
+{% include computerspiel.html title="The Mask of the Sun" description="Das Geheimnis der Aztekenmaske. Was ist schön dabei?" path="6ZJ_S4K6R10" si="xMna5OA0pw4DHuG5" discussion="5" %}
+{% include computerspiel.html title="Das Drachental" description="Wenn „trowrebuaz“ gesagt wird, ein Schwert ist frei. Das ist ganz normal in dieses Computerspiel. „Trowrebuaz“ ist ein Zauberwort." path="pahNjOWqNxQ" si="JrnXZZppS7GleynV" discussion="6" %}
 {% include computerspiel.html title="Sunny Shine - on the Funny Side of Life" description="Sunny ist allergisch gegen Alkohol, aber Cigaretten schmeckt ihm gut. Dieses Computerspiel kann nicht gut enden, denn er wirfte ein Poster weg. Er hat auch weniger Geld als die Konkurenz." path="Eg-WGXEohoc" si="AHZ9MtbCu4PSC98V" %}
 <details open>
     <summary>
