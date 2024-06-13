@@ -30,7 +30,7 @@ title: Nostalgie-Ecke von Stagyrit
 {% include computerspiel.html title="Maniac Mansion" description="Lese eine Plakette. „Si trouve, envoyez-le au Louvre, poste paye.“ Das bedeute, wenn Sie es finden, senden Sie es portofrei an den Louvre." path="UlD1jRwcvhA" si="lMAvdN6se4aBJ_K4" quote="Si trouve, envoyez-le au Louvre, poste paye. – ein Plakat in Tollhaus" discussion="4" %}
 {% include computerspiel.html title="The Mask of the Sun" description="Das Geheimnis der Aztekenmaske. Was ist schön dabei?" path="6ZJ_S4K6R10" si="xMna5OA0pw4DHuG5" discussion="5" %}
 {% include computerspiel.html title="Das Drachental" description="Wenn „trowrebuaz“ gesagt wird, ein Schwert ist frei. Das ist ganz normal in dieses Computerspiel. „Trowrebuaz“ ist ein Zauberwort." path="pahNjOWqNxQ" si="JrnXZZppS7GleynV" discussion="6" %}
-{% include computerspiel.html title="Sunny Shine - on the Funny Side of Life" description="Sunny ist allergisch gegen Alkohol, aber Cigaretten schmeckt ihm gut. Dieses Computerspiel kann nicht gut enden, denn er wirfte ein Poster weg. Er hat auch weniger Geld als die Konkurenz." path="Eg-WGXEohoc" si="AHZ9MtbCu4PSC98V" %}
+{% include computerspiel.html title="Sunny Shine - on the Funny Side of Life" description="Sunny ist allergisch gegen Alkohol, aber Cigaretten schmeckt ihm gut. Dieses Computerspiel kann nicht gut enden, denn er wirfte ein Poster weg. Er hat auch weniger Geld als die Konkurenz." path="Eg-WGXEohoc" si="AHZ9MtbCu4PSC98V" discussion="8" %}
 <details open>
     <summary>
         <h2>Kontakt</h2>
@@ -47,6 +47,8 @@ title: Nostalgie-Ecke von Stagyrit
 {% include url.html header="Bitbucket" url="https://bitbucket.com/Stagyrite/" title="Overview — Bitbucket" name="Bitbucket/Stagyrite" %}
 {% include url.html header="X" url="https://twitter.com/effconia" title="Maciej Matiaszowski (@effconia) / X" name="@effconia" %}
 {% include url.html header="YouTube" url="https://www.youtube.com/@eltikia" title="Nostalgie-Ecke von Stagirit - YouTube" name="@eltikia" %}
+{% include url.html header="Facebook" url="https://www.facebook.com/profile.php?id=61561010879156" title="Maciej Matiaszowski &#124; Facebook" name="@Maciej-Matiaszowski" %}
     </ul>
 </details>
 <footer>⬛⚛🍅👺</footer>
+
