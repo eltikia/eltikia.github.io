@@ -1,4 +1,4 @@
-# eltikia.github.io
+# {eltikia,kironia}.github.io
 
 ## Nostalgie-Ecke von Stagirit
 
