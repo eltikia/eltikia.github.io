@@ -42,8 +42,9 @@ title: Nostalgie-Ecke von Stagyrit
             <span class="p-given-name">Maciej Matiaszowski</span>
         </li>
 {% include url.html header="Email" url="mailto:maciej.matiaszowski@gmail.com?subject=Nostalgie-Ecke%20von%20Stagirit" title="Email me" name="maciej.matiaszowski@gmail.com" text="(GPG: 0x2F838507E33BD720)"%}
-{% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski | Stagyrite" name="Stagyrite.GitHub.io" %}
-{% include url.html header="YouTube" url="https://www.youtube.com/@eltikia" title="Nostalgie-Ecke von Stagirit - YouTube" name="@eltikia" %}
+{% include url.html header="Pinterest" url="https://pl.pinterest.com/terroratorium/" title="terroratorium - Profile &#124; Pinterest" name="@terroratorium" %}
+{% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski &#124; Stagyrite" name="Stagyrite.GitHub.io" %}
+{% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
     </ul>
 </details>
-<footer>⚛🍅🦅🦅</footer>
+<footer>stdin | stdout</footer>
