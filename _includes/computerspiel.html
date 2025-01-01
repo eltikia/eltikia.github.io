@@ -1,0 +1,26 @@
+<details>
+    <summary>
+        <h3>{{ include.title }}</h3>
+    </summary>
+    <p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+                height="315" src="https://www.youtube.com/embed/{{ include.path }}?si={{ include.si }}"
+                title="YouTube video player"
+                width="560"></iframe>
+    </p>
+    {% if include.quote %}
+        <blockquote>
+            {{ include.quote }}
+        </blockquote>
+    {% endif %}
+    <p>
+        {{ include.description }}
+    </p>
+    {% if include.discussion %}
+        <p>
+            <a href="https://github.com/eltikia/eltikia.github.io/discussions/{{ include.discussion }}"
+               title="🇩🇪 {{ include.title }} · eltikia/eltikia.github.io · Discussion #{{ include.discussion }}"
+               class="u-url url">Gehe zur Diskussion</a>
+        </p>
+    {% endif %}
+</details>

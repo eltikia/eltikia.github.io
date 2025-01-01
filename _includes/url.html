@@ -1,0 +1,8 @@
+<li>
+    {{ include.header }}: <a class="u-url url" href="{{ include.url }}"
+                             {% if include.title %}
+                                title="{{ include.title }}"
+                             {% endif %}
+                             rel="me">{{ include.name }}</a>
+    {{ include.text }}
+</li>
