@@ -6,4 +6,3 @@
 * Internetseite: [Eltikia.GitHub.io](https://eltikia.github.io/ "Nostalgie-Ecke von Stagyrit")
 * Schwester-Internetseite: [Kironia.GitHub.io](https://kironia.github.io/ "Nostalgie-Ecke von Stagyrit")
 
-stdin | stdout
