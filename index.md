@@ -41,7 +41,7 @@ title: Nostalgie-Ecke von Stagyrit
         <li class="p-name fn">
             <span class="p-given-name">Maciej Matiaszowski</span>
         </li>
-{% include url.html header="Email" url="mailto:prueba@int.pl?subject=Nostalgie-Ecke%20von%20Stagirit" title="Email me" name="prueba@int.pl" text="📧"%}
+{% include url.html header="Email" url="mailto:stagyrite@int.pl?subject=Nostalgie-Ecke%20von%20Stagirit" title="Email me" name="stagyrite@int.pl" text="📧"%}
 {% include url.html header="Pinterest" url="https://pl.pinterest.com/terroratorium/" title="terroratorium - Profile &#124; Pinterest" name="@terroratorium" %}
 {% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski &#124; Stagyrite" name="Stagyrite.GitHub.io" %}
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
