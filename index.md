@@ -11,7 +11,7 @@ title: Windsurfen-Ecke von Stagyrit
         <h2>Über den Kanal</h2>
     </summary>
     <p>
-        Windsurfen ist besser als uralte Computerspiele. Aber Sie können doch nie die Lösung selber finden. 
+        Windsurfen ist besser als <a class="u-url url" href="https://eltikia.github.io/" title="Nostalgie-Ecke von Stagyrit">uralte Computerspiele</a>. Aber Sie können doch nie die Lösung selber finden. 
     </p>
 </details>
 {% include computerspiel.html title="Windsurfen-Ecke" description="Es ist eine Windsurfen-Ecke oder das Geheimnis der Nostalgie-Ecke von Stagirit. Ich kann nicht windsurfen, aber ich bin Oracle-zertifizierter Java-Entwickler. Außerdem, Windsurfen ist mir ein bisschen zu langweilig." path="RvTsRlO182I" si="B6Xya-7JI8zIsm0t" %}
@@ -25,7 +25,7 @@ title: Windsurfen-Ecke von Stagyrit
         <li class="p-name fn">
             <span class="p-given-name">Maciej Matiaszowski</span>
         </li>
-{% include url.html header="Email" url="mailto:maciej.matiaszowski@gmail.com?subject=Windsurfen-Ecke%20von%20Stagirit" title="Email me" name="stagyrite@int.pl" text="📧"%}
+{% include url.html header="Email" url="mailto:maciej.matiaszowski@gmail.com?subject=Windsurfen-Ecke%20von%20Stagirit" title="Email me" name="maciej.matiaszowski@gmail.com" text="📧"%}
 {% include url.html header="Pinterest" url="https://pl.pinterest.com/terroratorium/" title="terroratorium - Profile &#124; Pinterest" name="@terroratorium" %}
 {% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski &#124; Stagyrite" name="Stagyrite.GitHub.io" %}
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
