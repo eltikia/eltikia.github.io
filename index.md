@@ -47,4 +47,4 @@ title: Nostalgie-Ecke von Stagyrit
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
     </ul>
 </details>
-<footer>stdin | stdout</footer>
+<footer>⛵️⚓️🧭🌊</footer>
