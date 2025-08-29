@@ -26,9 +26,10 @@ title: Surfen-Ecke von Stagyrit
             <span class="p-given-name">Maciej Matiaszowski</span>
         </li>
 {% include url.html header="Email" url="mailto:maciej.matiaszowski@gmail.com?subject=Surfen-Ecke%20von%20Stagirit" title="Email me" name="maciej.matiaszowski@gmail.com" text="📧"%}
-{% include url.html header="Pinterest" url="https://pl.pinterest.com/terroratorium/" title="terroratorium - Profile &#124; Pinterest" name="@terroratorium" %}
+{% include url.html header="Gitter" url="https://gitter.im/stagyrite/kasette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" title="Gitter" name="stagyrite/kasette" %}
 {% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski &#124; Stagyrite" name="Stagyrite.GitHub.io" %}
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
     </ul>
 </details>
 <footer>🌴🥥🏄‍♀️🍹</footer>
+
