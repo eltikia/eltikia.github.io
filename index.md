@@ -42,12 +42,13 @@ title: Nostalgie-Ecke von Stagyrit
             <span class="p-given-name">Maciej Matiaszowski</span>
         </li>
 {% include url.html header="Email" url="mailto:maciej.matiaszowski@gmail.com?subject=Nostalgie-Ecke%20von%20Stagirit" title="Email me" name="maciej.matiaszowski@gmail.com" %}
-{% include url.html header="Gitter" url="https://gitter.im/stagyrite/kasette" title="Gitter" name="stagyrite/kasette" %}
+{% include url.html header="Gitter" url="https://matrix.to/#/#kassette:gitter.im" title="Gitter &#124; Kassette" name="#kassette" %}
 {% include url.html header="Homepage" url="https://Stagyrite.GitHub.io/" title="Maciej Matiaszowski &#124; Stagyrite" name="Stagyrite.GitHub.io" %}
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
     </ul>
 </details>
 <footer>⬛⬜🚢⏳</footer>
+
 
 
 
