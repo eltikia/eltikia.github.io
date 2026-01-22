@@ -47,6 +47,46 @@ title: Nostalgie-Ecke von Stagyrit
 {% include url.html header="GitHub" url="https://github.com/Stagyrite/" title="Stagyrite (Maciej Matiaszowski)" name="GitHub/Stagyrite" %}
     </ul>
 </details>
+
+<details>
+    <summary>
+        <h3>Speaking Streem</h3>
+    </summary>
+    <h4>./<a class="u-url url" href="https://stagyrite.github.io/streemdox/" title="Streem documentation project &#124; Streemdox" rel="me">streem</a> <a class="u-url url" href="https://github.com/eltikia/eltikia.github.io/blob/main/candy-game.strm" title="eltikia.github.io/candy-game.strm at main · eltikia/eltikia.github.io" rel="me">candy-game.strm</a></h4>
+    <pre>
+# Input:
+# 634
+# 63
+# 364
+# 630
+
+candyGame = { reminder ->
+
+	if (reminder == 0) {
+		"B wins"
+	} else if (reminder == 2) {
+		"A wins"
+	} else if (reminder == 3) {
+		"A wins"
+	} else {
+		"draw"
+	}
+
+}
+
+stdin | map { n ->
+    reminder = number(n) % 5
+    candyGame(reminder)
+} | stdout
+
+# Output:
+# draw
+# A wins
+# draw
+# B wins
+</pre>
+
+</details>
 <footer>⬛⬜🚢⏳</footer>
 
 

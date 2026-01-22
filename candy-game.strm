@@ -1,0 +1,30 @@
+# Input:
+# 634
+# 63
+# 364
+# 630
+
+candyGame = { reminder ->
+	
+	if (reminder == 0) {
+		"B wins"
+	} else if (reminder == 2) {
+		"A wins"
+	} else if (reminder == 3) {
+		"A wins"
+	} else {
+		"draw"
+	}
+
+}
+
+stdin | map { n ->
+	reminder = number(n) % 5
+	candyGame(reminder)
+} | stdout
+
+# Output:
+# draw
+# A wins
+# draw
+# B wins
