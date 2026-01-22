@@ -50,40 +50,40 @@ title: Nostalgie-Ecke von Stagyrit
 
 <details>
     <summary>
-        <h3>Speaking Streem</h3>
+        <h3>Sprechen Streem</h3>
     </summary>
-    <h4>./<a class="u-url url" href="https://stagyrite.github.io/streemdox/" title="Streem documentation project &#124; Streemdox" rel="me">streem</a> <a class="u-url url" href="https://github.com/eltikia/eltikia.github.io/blob/main/candy-game.strm" title="eltikia.github.io/candy-game.strm at main · eltikia/eltikia.github.io" rel="me">candy-game.strm</a></h4>
+    <h4>./<a class="u-url url" href="https://stagyrite.github.io/streemdox/" title="Streem documentation project &#124; Streemdox" rel="me">streem</a> <a class="u-url url" href="https://github.com/eltikia/eltikia.github.io/blob/main/Süßigkeitenspiel.strm" title="eltikia.github.io/Süßigkeitenspiel.strm at main · eltikia/eltikia.github.io" rel="me">Süßigkeitenspiel.strm</a></h4>
     <pre>
-# Input:
+# Eingabe:
 # 634
 # 63
 # 364
 # 630
 
-candyGame = { reminder ->
+süßigkeitenspiel = { erinnerung ->
 
-	if (reminder == 0) {
-		"B wins"
-	} else if (reminder == 2) {
-		"A wins"
-	} else if (reminder == 3) {
-		"A wins"
+	if (erinnerung == 0) {
+		"B gewinnt"
+	} else if (erinnerung == 2) {
+		"A gewinnt"
+	} else if (erinnerung == 3) {
+		"A gewinnt"
 	} else {
-		"draw"
+		"das Remis"
 	}
 
 }
 
 stdin | map { n ->
-    reminder = number(n) % 5
-    candyGame(reminder)
+    erinnerung = number(n) % 5
+    süßigkeitenspiel(erinnerung)
 } | stdout
 
-# Output:
-# draw
-# A wins
-# draw
-# B wins
+# Ausgabe:
+# das Remis
+# A gewinnt
+# das Remis
+# B gewinnt
 </pre>
 
 </details>
